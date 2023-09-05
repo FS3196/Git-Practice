@@ -2,3 +2,6 @@ Master:
   Add
   Commit
   Branch
+Dev:
+  Clone
+  Checkout
