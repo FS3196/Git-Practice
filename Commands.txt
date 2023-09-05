@@ -2,3 +2,9 @@ Master:
   Add
   Commit
   Branch
+Dev:
+  Clone
+  Checkout
+Dev2:
+  Pull
+  Merge
