@@ -5,3 +5,6 @@ Master:
 Dev:
   Clone
   Checkout
+Dev2:
+  Pull
+  Merge
