@@ -8,3 +8,5 @@ Dev:
 Dev2:
   Pull
   Merge
+Dev3:
+  Fetch --> Merge --> Pull
