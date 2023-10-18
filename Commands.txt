@@ -1,14 +1,14 @@
-Master:
+1. Master:
   Add
   Commit
   Branch
-Dev:
+2. Dev:
   Clone
   Checkout
-Dev2:
+3. Dev2:
   Pull
   Merge
-Dev3:
+4. Dev3:
   Fetch --> Merge --> Pull
-Dev4: 
+5. Dev4: 
   Network Graph
