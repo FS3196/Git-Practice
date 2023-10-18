@@ -12,8 +12,4 @@ Dev3:
   Fetch --> Merge --> Pull
 Dev4: 
   Network Graph
-<<<<<<< HEAD
---- this is the end ---
-=======
--- Repo --
->>>>>>> da0e68dc1279a654dd04675332f5dc7b33673476
+
