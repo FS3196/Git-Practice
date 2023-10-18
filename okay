@@ -1,0 +1,50 @@
+[33mcommit 47ae841d61d6c5fff7a6ea9885da22c40a2cfda7[m[33m ([m[1;36mHEAD -> [m[1;32mdev4[m[33m)[m
+Author: [Fardin Saad] <fsaad@ncsu.edu>
+Date:   Tue Sep 5 00:01:04 2023 -0400
+
+    Change in dev4
+
+[33mcommit 0ee92459526232f057a99a09d0503954c534dfe3[m[33m ([m[1;31morigin/dev4[m[33m, [m[1;31morigin/dev3[m[33m, [m[1;31morigin/dev2[m[33m, [m[1;32mdev3[m[33m, [m[1;32mdev2[m[33m)[m
+Author: [Fardin Saad] <fsaad@ncsu.edu>
+Date:   Mon Sep 4 23:45:11 2023 -0400
+
+    Modified Commands in dev3
+
+[33mcommit 89b37df96d3acc473868950ab1cd0cd6408aa7e4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 6536436 85ed036
+Author: FS3196 <144060881+FS3196@users.noreply.github.com>
+Date:   Mon Sep 4 23:14:55 2023 -0400
+
+    Merge pull request #1 from FS3196/dev
+    
+    Dev merged to main
+
+[33mcommit 85ed036b53a4a72c218f98d9b32262f62ae369c1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: [Fardin Saad] <fsaad@ncsu.edu>
+Date:   Mon Sep 4 23:07:55 2023 -0400
+
+    Added a branch with Commands modified
+
+[33mcommit 05bee37b62308a031d10d3ad7672919ecaa6ca0e[m
+Author: [Fardin Saad] <fsaad@ncsu.edu>
+Date:   Mon Sep 4 23:02:12 2023 -0400
+
+    Made changes to commands
+
+[33mcommit 65364362d0965126e402bf269c73ef8c985a6fa5[m
+Author: FS3196 <144060881+FS3196@users.noreply.github.com>
+Date:   Mon Sep 4 22:25:29 2023 -0400
+
+    Rename Commands to Commands.txt
+
+[33mcommit 7731cb369eb78340426d0b04585de71b77736471[m
+Author: FS3196 <144060881+FS3196@users.noreply.github.com>
+Date:   Mon Sep 4 22:24:51 2023 -0400
+
+    Create Commands
+
+[33mcommit 6dc9483ba000ef6b512ef0848310aed8ac49b2e2[m
+Author: FS3196 <144060881+FS3196@users.noreply.github.com>
+Date:   Mon Sep 4 22:23:38 2023 -0400
+
+    Initial commit
